@@ -1,1 +1,2 @@
+final content
 my 7 file
